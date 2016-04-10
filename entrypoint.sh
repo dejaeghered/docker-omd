@@ -3,5 +3,6 @@
 # The start script for the docker container.
 
 omd start
-service apache2 restart
+
+# leave bash running
 /bin/bash
